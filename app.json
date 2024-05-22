@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Mishel-Tg/AutoFilterBot",
-    "repository": "https://github.com/Mishel-Tg/AutoFilterBot",
+    "repository": "https://github.com/UNNI12345YT/AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
