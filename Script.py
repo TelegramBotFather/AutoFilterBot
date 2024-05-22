@@ -15,7 +15,7 @@ class script(object):
 - Sᴏᴜʀᴄᴇ  - https://github.com/Mishel-Tg/AutoFilterBot
 
 <b>DEVS:</b>
-- <a href=https://t.me/botuptest>Creator</a>"""
+- <a href=https://t.me/UNNIduo>Creator</a>"""
     PROMOTE = """ Yᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ᴍᴇᴍʙᴇʀs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ
  
 Bʏ ᴜsɪɴɢ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ. 
